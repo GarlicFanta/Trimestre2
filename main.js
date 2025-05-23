@@ -60,19 +60,9 @@ geraSenha();
 // Função principal que gera a senha com base nas opções escolhidas
 function geraSenha() {
     let alfabeto = ''; // Inicializa a string de caracteres permitidos
-
-    // Verifica cada checkbox e adiciona os caracteres correspondentes ao alfabeto
-    if (checkbox[0].checked) {
-        alfabeto += letrasMaiusculas;
-    }
-    if (checkbox[1].checked) {
-        alfabeto += letrasMinusculas;
     }
     if (checkbox[2].checked) {
         alfabeto += numeros;
-    }
-    if (checkbox[3].checked) {
-        alfabeto += simbolos;
     }
 
     let senha = ''; // Variável para armazenar a senha gerada
