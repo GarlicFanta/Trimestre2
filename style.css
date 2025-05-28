@@ -23,8 +23,10 @@
 /* Estiliza o corpo da página */
 body {
     color: var(--branco); /* Cor do texto */
-    background-color: var(--cor-de-fundo); /* Cor de fundo */
+    background-color: rgb(62, 0, 255)(--cor-de-fundo); /* Cor de fundo */
     font-family: var(--roboto); /* Fonte padrão do corpo */
+    text-shadow: rgb(0, 0, 0) 2px 5px;
+
 }
 
 /* Estiliza o título principal */
