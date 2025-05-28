@@ -6,8 +6,8 @@
     --branco: #F0F8FF; /* Branco azulado mais brilhante, para um efeito futurista */
     --cor-de-fundo: #3e00ff; /* Azul escuro profundo, quase preto, remetendo ao espaço sideral */
     --fundo-senha: #000000; /* Azul metálico intenso, com um toque de profundidade */
-    --fundo-texto: #2846A6; /* Azul elétrico vibrante, simulando displays digitais */
-    --borda: #FF00FF; /* Magenta neon, dando um efeito chamativo e ultra-tecnológico */
+    --fundo-texto: #ff0077; /* Azul elétrico vibrante, simulando displays digitais */
+    --borda: #000000; /* Magenta neon, dando um efeito chamativo e ultra-tecnológico */
     --roboto: 'Impact', sans-serif;
     --roboto-mono: 'Impact', monospace;
 }
