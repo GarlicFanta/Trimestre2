@@ -4,7 +4,7 @@
 /* Define variáveis de cor com estética futurista */
 :root {
     --branco: #F0F8FF; /* Branco azulado mais brilhante, para um efeito futurista */
-    --cor-de-fundo: #3E00FF; /* Azul escuro profundo, quase preto, remetendo ao espaço sideral */
+    --cor-de-fundo: #3e00ff; /* Azul escuro profundo, quase preto, remetendo ao espaço sideral */
     --fundo-senha: #1E2952; /* Azul metálico intenso, com um toque de profundidade */
     --fundo-texto: #2846A6; /* Azul elétrico vibrante, simulando displays digitais */
     --borda: #FF00FF; /* Magenta neon, dando um efeito chamativo e ultra-tecnológico */
@@ -23,7 +23,7 @@
 /* Estiliza o corpo da página */
 body {
     color: var(--branco); /* Cor do texto */
-    background-color: (--cor-de-fundo); /* Cor de fundo */
+    background-color: var(--cor-de-fundo); /* Cor de fundo */
     font-family: var(--roboto); /* Fonte padrão do corpo */
     text-shadow: rgb(0, 0, 0) 2px 5px;
 
