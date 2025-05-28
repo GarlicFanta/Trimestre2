@@ -25,7 +25,7 @@ body {
     color: var(--branco); /* Cor do texto */
     background-color: var(--cor-de-fundo); /* Cor de fundo */
     font-family: var(--roboto); /* Fonte padrão do corpo */
-    text-shadow: rgb(0, 0, 0) 2px 5px;
+    text-shadow: rgb(0, 0, 0) 2px 10px;
     font-family: 'Impact', sans-serif;
 
 }
