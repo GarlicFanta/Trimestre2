@@ -79,7 +79,7 @@ body {
 /* Estiliza o bloco de parâmetros de personalização da senha */
 .parametro {
     background-color: var(--fundo-texto);
-    border: 2px solid var(--borda);
+    border: 8px solid var(--borda);
     margin-top: 32px;
     padding: 24px;
 }
